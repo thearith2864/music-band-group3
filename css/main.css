@@ -76,7 +76,7 @@ ul li a:hover {
     text-align: center;
 }
 .serve-one {
-    background: url('https://cdn.pixabay.com/photo/2018/01/15/07/51/woman-3083378_960_720.jpg');
+    background: url(photo_2023-06-19_09-01-51.jpg);
     background-size: cover;
     height: 40vh;
     display: flex;
@@ -85,7 +85,7 @@ ul li a:hover {
     flex-direction: column;
 }
 .serve-two {
-    background: url('https://cdn.pixabay.com/photo/2016/11/22/06/32/girl-1848478_960_720.jpg');
+    background: url(photo_2023-06-20_20-47-47.jpg);
     background-size: cover;
     display: flex;
     justify-content: flex-end;
@@ -93,7 +93,7 @@ ul li a:hover {
     flex-direction: column;
 }
 .serve-three {
-    background: url('https://cdn.pixabay.com/photo/2016/11/08/05/25/steak-1807532_960_720.jpg');
+    background: url(photo_2023-06-19_09-01-51.jpg);
     background-size: cover;
     display: flex;
     justify-content: flex-end;
@@ -102,7 +102,7 @@ ul li a:hover {
     height: 40vh;
 }
 .serve-four {
-    background: url('https://cdn.pixabay.com/photo/2018/02/07/12/01/restaurant-3136935_960_720.jpg');
+    background: url(photo_2023-06-20_20-48-10.jpg);
     background-size: cover;
     display: flex;
     justify-content: flex-start;
